@@ -5,3 +5,4 @@ print("thanks for your help")
 print("you are fire")
 import clone;
 print("Write the correct code")
+print("#end")
